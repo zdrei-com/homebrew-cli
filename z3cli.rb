@@ -1,4 +1,4 @@
-class Z3 < Formula
+class Z3cli < Formula
   desc "The zdrei.com developer console"
   homepage "https://zdrei.com/"
   url "https://console.z3.ag/z3-console.phar"
