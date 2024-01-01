@@ -2,7 +2,7 @@ class Z3cli < Formula
   desc "The zdrei.com developer console"
   homepage "https://zdrei.com/"
   url "https://console.z3.ag/z3-console.phar"
-  sha256 "cd32549c2bc046f0a1c401e458937f307777259e03eeae4cfd25496b52068922"
+  sha256 "5aa883ff46d145a1677e617c64719f66d88b9096f9c0fa0c97ab3298dee3de3f"
   license "property"
   version "0.0.3"
 
