@@ -2,9 +2,9 @@ class Z3cli < Formula
   desc "The zdrei.com developer console"
   homepage "https://zdrei.com/"
   url "https://github.com/zdrei-com/homebrew-cli/raw/main/z3cli.phar"
-  sha256 "bab357e49ca6172d547f0f8adbd27bfa757b727825b4a9cc518e0e6305ce2e49"
+  sha256 "6410e83344e6835563db79312e8dd2ed77b3d2902a2fccf281ed2ca23bb5c8ba"
   license "property"
-  version "0.0.5"
+  version "0.0.6"
 
   bottle do
   end
