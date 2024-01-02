@@ -12,7 +12,7 @@ class Z3cli < Formula
   depends_on "php"
 
   def install
-    bin.install "z3cli.phar" => "z3"
+    bin.install "z3cli_0.0.7.phar" => "z3"
   end
 
   test do
