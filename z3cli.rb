@@ -1,10 +1,10 @@
 class Z3cli < Formula
   desc "The zdrei.com developer console"
   homepage "https://zdrei.com/"
-  url "https://github.com/zdrei-com//raw/main/z3cli_0.0.10.phar"
-  sha256 "e7a0b1a7740031ae8bc8ff60d3df88b715768e2db2602ce1941e0a8d634e312a"
+  url "https://github.com/zdrei-com/homebrew-cli/raw/main/dist/z3cli_0.0.15.phar"
+  sha256 "fcd7345b203319311eff83737df51c5cd07952c9f5bc75f9fef640428ad86181"
   license "property"
-  version "0.0.10"
+  version "0.0.15"
 
   bottle do
   end
@@ -12,7 +12,7 @@ class Z3cli < Formula
   depends_on "php"
 
   def install
-    bin.install "z3cli_0.0.10.phar" => "z3"
+    bin.install "z3cli_0.0.15.phar" => "z3"
   end
 
   test do
